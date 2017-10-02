@@ -77,6 +77,6 @@ Solar Radiation Sensor receptacle to Interconnect Board
 
 | Wire color(Receptacle) | Jumper - Port(Interconnect Board) |
 | --- | --- |
-| `24 AWG Red` | J14 - RAIN |
+| `24 AWG Red` |  |
 | `24 AWG White` | x |
-| `24 AWG Black` | J15 - GND |
+| `24 AWG Black` | |
