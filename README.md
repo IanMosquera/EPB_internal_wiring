@@ -10,3 +10,42 @@ Soil 1 receptacle to Interconnect Board
 | `24 AWG Black` | - |
 
 
+Soil 2 receptacle to Interconnect Board
+
+| Wire color(Receptacle) | Port(Interconnect Board) |
+| --- | --- |
+| `24 AWG Brown` | - |
+| `24 AWG Blue` | - |
+| `24 AWG Black` | - |
+
+Soil 3 receptacle to Interconnect Board
+
+| Wire color(Receptacle) | Port(Interconnect Board) |
+| --- | --- |
+| `24 AWG Brown` | - |
+| `24 AWG Blue` | - |
+| `24 AWG Black` | - |
+
+Multiparameter Sensor receptacle to Interconnect Board
+
+| Wire color(Receptacle) | Port(Interconnect Board) |
+| --- | --- |
+| `24 AWG Brown` | - |
+| `24 AWG Blue` | - |
+| `24 AWG Black` | - |
+
+Sunshine Duration Sensor receptacle to Interconnect Board
+
+| Wire color(Receptacle) | Port(Interconnect Board) |
+| --- | --- |
+| `24 AWG Brown` | - |
+| `24 AWG Blue` | - |
+| `24 AWG Black` | - |
+
+#Rain Gauge receptacle to Interconnect Board
+
+| Wire color(Receptacle) | Port(Interconnect Board) |
+| --- | --- |
+| `24 AWG Brown` | - |
+| `24 AWG Blue` | - |
+| `24 AWG Black` | - |
