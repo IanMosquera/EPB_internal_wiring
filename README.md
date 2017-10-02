@@ -5,8 +5,8 @@ Soil 1 receptacle to Interconnect Board
 
 | Wire color(Receptacle) | Port(Interconnect Board) |
 | --- | --- |
-| 24 AWG Brown | - |
-| 24 AWG Blue | - |
-| 24 AWG Black | - |
+| `24 AWG Brown` | - |
+| `24 AWG Blue` | - |
+| `24 AWG Black` | - |
 
 
