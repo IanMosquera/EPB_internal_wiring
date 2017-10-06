@@ -1,3 +1,4 @@
+```verilog
 module uartRX (clk, nrst,rx,data, rcv);
 	input clk, nrst,rx;
 	output data, rcv;
@@ -52,3 +53,4 @@ module uartRX (clk, nrst,rx,data, rcv);
 		else if (ctr == 4'b1000) data = databuffer; else data <= 0;
 	end
 endmodule
+```
